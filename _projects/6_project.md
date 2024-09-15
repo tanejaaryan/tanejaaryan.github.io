@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 6
+title: Understanding implicit and explicit signals to understand network performance
 description: a project with no image
 img:
 importance: 4

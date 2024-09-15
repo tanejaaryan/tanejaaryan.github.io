@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: LLM inference and training optimisation
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Optimised vllm-based systems to serve, schedule, migrate and load balance \textbf{LLM inference requests} for cost and GPU throughput efficiency (\textbf{upto 34\%}). Implemented KV cache management \& migration module for efficient global routing
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

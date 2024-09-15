@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: Machine Learning and Edge Computing for Low Latency Video Streaming
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2

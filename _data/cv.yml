@@ -1,12 +1,12 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
+    - name: full name
+      value: Aryan Taneja
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th August 2001
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
