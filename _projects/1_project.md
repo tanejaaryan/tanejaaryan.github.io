@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LLM inference and training optimisation
-description: 
+description:
 img: assets/img/12.jpg
 importance: 1
 category: work

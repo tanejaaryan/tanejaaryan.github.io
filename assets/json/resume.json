@@ -29,7 +29,7 @@
       "startDate": "2024-08-16",
       "endDate": "2025-05-16",
       "summary": "Teaching Assistant for the CS225 Data Structures and Algorithms course.",
-      "highlights":  []
+      "highlights": []
     },
     {
       "name": "Microsoft Research",
@@ -37,7 +37,7 @@
       "startDate": "2023-02-01",
       "endDate": "2024-08-02",
       "summary": "Worked on multiple projects in the Systems and Networks group.",
-      "highlights":  []
+      "highlights": []
     },
     {
       "name": "Microsoft Research",
@@ -45,7 +45,7 @@
       "startDate": "2022-01-28",
       "endDate": "2022-06-16",
       "summary": "Used NLP,Sentiment Analysis,Computer-Vision to extract measurements and the user-perception of Starlink on Social Media.",
-      "highlights":  []
+      "highlights": []
     },
     {
       "name": "MathWorks",
@@ -53,9 +53,8 @@
       "startDate": "2022-06-16",
       "endDate": "2022-08-15",
       "summary": "Implemented a violation tracking system for Polyspace MISRA tool. Deployed the feature to production which improved the code compilation efficiency by 4x. also wrote the software requirement document.",
-      "highlights":  []
-    }
-    ,
+      "highlights": []
+    },
     {
       "name": "Netflix",
       "position": "Summer Intern",
@@ -86,7 +85,9 @@
       "startDate": "2019-07-20",
       "endDate": "2023-05-15",
       "score": "9.32/10",
-      "courses": ["Advanced Machine Learning, Artificial Intelligence, Algorithm Design/Analysis, Data Structures, Advanced Programming, Operating Systems, Computer Networks, Database Management Systems, Computer Security, Information Retrieval, Cloud Computing, Image Processing, HCI"]
+      "courses": [
+        "Advanced Machine Learning, Artificial Intelligence, Algorithm Design/Analysis, Data Structures, Advanced Programming, Operating Systems, Computer Networks, Database Management Systems, Computer Security, Information Retrieval, Cloud Computing, Image Processing, HCI"
+      ]
     }
   ],
   "awards": [
@@ -104,7 +105,7 @@
       "url": "https://www.iiitd.ac.in/",
       "summary": "Awarded a scholarship grant of INR 1 lakh to pursue research in the field of edge machine learning for smart cities"
     },
-      {
+    {
       "title": "Deans Award for Academic Excellence",
       "date": "2021,2022,2023",
       "awarder": "IIIT Delhi",
@@ -113,7 +114,7 @@
     }
   ],
 
-"publications": [
+  "publications": [
     {
       "name": "TileClipper: Lightweight Selection of Regions of Interest from Videos for Traffic Surveillance",
       "publisher": "USENIX ATC'24",
@@ -155,8 +156,7 @@
       "releaseDate": "2023-10-01",
       "url": "http://dx.doi.org/10.36227/techrxiv.22083461.v1",
       "summary": "This patent describes VISTA, a method for fast and efficient traffic surveillance using tile sampling, likely improving processing speed and efficiency in video analysis for traffic monitoring."
-    }
-    ,
+    },
     {
       "name": "StarCDN: CDNs in space for satellite networks",
       "publisher": "ACM SIGCOMM 2025 (To appear)",
@@ -171,25 +171,23 @@
       "url": "https://ccronline.sigcomm.org/",
       "summary": "LEOScope presents a global testbed for Low-Earth Orbit (LEO) satellite networks, providing a platform for research and experimentation on LEO connectivity, performance, and applications."
     }
-],
+  ],
   "skills": [
-  {
-    "name": "Languages",
-    "level": "Advanced",
-    "icon": "fa-solid fa-code",
-    "keywords": [
-      "Java, Python, C, C++, MATLAB, HTML, CSS, Javascript, SQL"
-    ]
-  },
-  {
-    "name": "Tools",
-    "level": "Proficient",
-    "icon": "fa-solid fa-wrench",
-    "keywords": [
-      "Docker, Git, PyTorch, TensorFlow, NumPy, Pandas, Langchain, vllm, huggingface-transformers, gpt-tools, nltk, FastAPI, MongoDB, React.js, Node.js, Django, Flask, cuda-toolkit, wireshark, Ffmpeg, yolo, OpenCV, scikit-learn, LaTeX, Jupyter, Linux, mySQL, AWS, Unix"
-    ]
-  }
-],
+    {
+      "name": "Languages",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Java, Python, C, C++, MATLAB, HTML, CSS, Javascript, SQL"]
+    },
+    {
+      "name": "Tools",
+      "level": "Proficient",
+      "icon": "fa-solid fa-wrench",
+      "keywords": [
+        "Docker, Git, PyTorch, TensorFlow, NumPy, Pandas, Langchain, vllm, huggingface-transformers, gpt-tools, nltk, FastAPI, MongoDB, React.js, Node.js, Django, Flask, cuda-toolkit, wireshark, Ffmpeg, yolo, OpenCV, scikit-learn, LaTeX, Jupyter, Linux, mySQL, AWS, Unix"
+      ]
+    }
+  ],
   "references": [
     {
       "name": "Dr. Venkat Padmanabhan",
@@ -201,7 +199,7 @@
       "icon": "fa-solid fa-thumbtack",
       "reference": "Senior Researcher, Microsoft Research India."
     },
-        {
+    {
       "name": "Prof. Arani Bhattacharya",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Assistant Professor, IIIT Delhi."
