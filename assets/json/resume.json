@@ -6,7 +6,7 @@
     "email": "aryant2@illinois.edu",
     "phone": "(447) 901-7091",
     "url": "https://tanejaaryan.github.io/",
-    "summary": "Graduate research student at UIUC with past background in Systems for Machine Learning, Computer Networking, and Edge Computing. Contributed to multiple projects at Microsoft Research in the past. Motivated to solve interesting real-world challenges in technology that create impact at scale.",
+    "summary": "Graduate research student at UIUC with past background in Networking, Systems for LLMs, and Edge Computing. Contributed to multiple projects at Microsoft Research in the past. Motivated to solve interesting real-world challenges in technology that create impact at scale.",
     "location": {
       "address": "3105 Seibel Center, 201 N Goodwin Ave",
       "postalCode": "IL 61801",
@@ -27,7 +27,7 @@
       "name": "University of Illinois at Urbana-Champaign",
       "position": "Graduate Teaching Assistant",
       "startDate": "2024-08-16",
-      "endDate": "present",
+      "endDate": "2025-05-16",
       "summary": "Teaching Assistant for the CS225 Data Structures and Algorithms course.",
       "highlights":  []
     },
@@ -54,6 +54,15 @@
       "endDate": "2022-08-15",
       "summary": "Implemented a violation tracking system for Polyspace MISRA tool. Deployed the feature to production which improved the code compilation efficiency by 4x. also wrote the software requirement document.",
       "highlights":  []
+    }
+    ,
+    {
+      "name": "Netflix",
+      "position": "Summer Intern",
+      "startDate": "2025-05-19",
+      "endDate": "2025-08-15",
+      "summary": "Worked as a Summer Intern at Netflix",
+      "highlights": []
     }
   ],
   "education": [
@@ -146,6 +155,21 @@
       "releaseDate": "2023-10-01",
       "url": "http://dx.doi.org/10.36227/techrxiv.22083461.v1",
       "summary": "This patent describes VISTA, a method for fast and efficient traffic surveillance using tile sampling, likely improving processing speed and efficiency in video analysis for traffic monitoring."
+    }
+    ,
+    {
+      "name": "StarCDN: CDNs in space for satellite networks",
+      "publisher": "ACM SIGCOMM 2025 (To appear)",
+      "releaseDate": "2025-08-01",
+      "url": "https://conferences.sigcomm.org/sigcomm/2025/",
+      "summary": "This paper introduces StarCDN, a system for deploying Content Delivery Networks (CDNs) in space for satellite networks, enabling efficient content distribution and delivery in next-generation satellite-based internet architectures."
+    },
+    {
+      "name": "LEOScope: Building a Global Testbed for Low-Earth Orbit Satellite Networks",
+      "publisher": "ACM SIGCOMM CCR 2025 (To appear)",
+      "releaseDate": "2025-08-01",
+      "url": "https://ccronline.sigcomm.org/",
+      "summary": "LEOScope presents a global testbed for Low-Earth Orbit (LEO) satellite networks, providing a platform for research and experimentation on LEO connectivity, performance, and applications."
     }
 ],
   "skills": [
