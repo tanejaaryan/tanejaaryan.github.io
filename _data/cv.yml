@@ -32,10 +32,9 @@
       year: May 2025 - Aug 2025
       location: Los Gatos, CA
       description:
-        - "Mentors: Dr. Renata Teixeira"
+        - "Mentors: Dr. Renata Teixeira, Dr. Reese Enghardt, Dr. Grenville Armitage"
         - Performed large-scale database logging and analysis to identify issues in the backend serving stack for dynamic loads
         - Implemented a combined server-side and client-side solution which significantly improved transport protocol performance (throughput & reliability)
-        - Work resulted in ~13% QoE improvement for 2M+ users
     - title: Research Fellow
       institution: Microsoft Research
       year: Feb 2023 - Aug 2024
