@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Our paper **StarCDN: CDNs in space for satellite networks** got accepted at [ACM SIGCOMM 2025](https://dl.acm.org/doi/10.1145/3718958.3754345)! 🛰️
-

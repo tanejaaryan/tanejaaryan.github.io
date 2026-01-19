@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Selected as one of **200 Heidelberg Young Researchers** (2025)! Honored to be part of this prestigious program 🎓
-

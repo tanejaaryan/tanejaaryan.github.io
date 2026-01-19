@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Started my summer internship at **Netflix** Open Connect Transport R&D in Los Gatos, CA! 🎬
-
