@@ -1,97 +1,153 @@
 - title: General Information
   type: map
   contents:
-    - name: full name
+    - name: Full Name
       value: Aryan Taneja
-    - name: Date of Birth
-      value: 13th August 2001
-    - name: Languages
-      value: English
+    - name: Email
+      value: aryant2@illinois.edu
+    - name: Location
+      value: Urbana-Champaign, IL
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S. in Computer Science (Research Track)
+      institution: University of Illinois, Urbana-Champaign (UIUC)
+      year: Aug 2024 - May 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "GPA: 4.0/4.0"
+        - "Advisor: Prof. Deepak Vasisht"
+        - "Area: Networking, Systems and AI Infrastructure"
+    - title: Bachelor of Technology in Computer Science and Engineering
+      institution: IIIT Delhi
+      year: July 2019 - Jun 2023
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 9.32/10.0"
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Summer Intern
+      institution: Netflix (Open Connect Transport R&D)
+      year: May 2025 - Aug 2025
+      location: Los Gatos, CA
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Mentors: Dr. Renata Teixeira"
+        - Performed large-scale database logging and analysis to identify issues in the backend serving stack for dynamic loads
+        - Implemented a combined server-side and client-side solution which significantly improved transport protocol performance (throughput & reliability)
+        - Work resulted in ~13% QoE improvement for 2M+ users
+    - title: Research Fellow
+      institution: Microsoft Research
+      year: Feb 2023 - Aug 2024
+      location: Bangalore, India
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - "Mentors: Dr. Venkat Padmanabhan, Dr. Debopam Bhattacherjee"
+        - Worked towards improved serving, scheduling, and load balancing LLM inference infrastructure for cost and GPU throughput efficiency (up to 34%) by carefully balancing compute and network communication
+        - Contributed to early-designs of geo-distributed multi-data center LLM training over WAN
+        - Implemented ML-based predictor using real-time network signals to improve throughput by 120% and latency by 18% for LEO Networks (Azure Space stack)
+        - Built LEOScope, an open-source testbed for LEO networks research at scale in collaboration with University of Surrey
+    - title: Research Intern
+      institution: Microsoft Research
+      year: Feb 2022 - Jun 2022
+      location: Bangalore, India
       description:
+        - "Mentor: Dr. Debopam Bhattacherjee"
+        - Used Sentiment Analysis, Computer Vision, implicit & explicit user signals for User and Network Performance Modelling
+        - Projects included Starlink analysis, XBox-Forza (Azure Cloud), and Microsoft Teams
+    - title: SDE Intern
+      institution: MathWorks India
+      year: Jun 2022 - Aug 2022
+      location: Bangalore, India
+      description:
+        - Implemented a violation tracking system for Polyspace MISRA tool
+        - Deployed the feature to production improving code compilation efficiency by 196%
+        - Wrote software requirement documentation
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Selected Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Sustainable and Energy Efficient AI Inference
+      institution: Prof. Minjia Zhang, UIUC
+      year: Jan 2025 - present
+      description:
+        - Working to build energy efficient systems to reduce carbon impact without sacrificing throughput performance or Latency SLAs
+        - Using control-policy inspired scheduler for modern LLM serving systems (vLLM, SGLang)
+    - title: Optimizing LEO Networks for Global Internet Delivery (StarCDN)
+      institution: Prof. Deepak Vasisht, UIUC
+      year: Aug 2024 - Aug 2025
+      description:
+        - Studied various factors impacting application performance over LEO Networks
+        - Proposed a novel Satellite-CDN placement architecture (published at SIGCOMM 2025)
+    - title: LEOScope - Global Testbed for Network Experimentation
+      institution: Microsoft Research
+      year: Jan 2023 - Aug 2024
+      description:
+        - Built full-stack cloud orchestrator with geo-distributed node machines
+        - Deployed containerized systems and networking jobs for Starlink at scale
+        - Technologies used - Docker, gRPC, FastAPI, ReactJS, Node.JS
+    - title: Optimising Video Streaming with Edge Computing (TileClipper)
+      institution: IIIT-Delhi
+      year: May 2021 - Jul 2023
+      description:
+        - Developed system for efficient real-time video surveillance by tile sampling on edge devices
+        - Used bitrate changes in HEVC/H.265 encoded video streams to detect objects accurately (up to 92%)
+        - Reduced data transmission by up to 40% and decreased computational dependency
+        - Published at USENIX ATC'24, COMSNETS (Best Paper Award), Patent Accepted
+
+- title: Teaching & Mentorship
+  type: time_table
+  contents:
+    - title: Teaching Assistant - CS225 (Data Structures and Algorithms)
+      institution: University of Illinois, Urbana-Champaign
+      year: Fall 2024, Spring 2025
+    - title: Teaching Assistant - Operating Systems
+      institution: IIIT Delhi
+      year: Fall 2022
+    - title: Teaching Lead
+      institution: GIEO (NGO for Educating Underprivileged Children)
+      year: 2019 - 2023
+    - title: Mentor
+      institution: Student Mentorship Program, IIIT Delhi
+      year: 2020 - 2023
+    - title: Chair of IEEE, ACM, and TEDx Student Chapters
+      institution: IIIT Delhi
+      year: 2021 - 2023
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Selected as one of 200 Heidelberg Young Researchers
+    - year: 2024
       items:
-        - Max Planck Medal
+        - J.N TATA Scholarship for Higher Education
+    - year: 2022
+      items:
+        - Chanakya Fellowship for Research by Govt. of India
+        - COMSNETS 2022 Best Paper Award
+    - year: 2021-2023
+      items:
+        - Dean's Award for Academic Excellence (thrice)
+    - year: 2018
+      items:
+        - State Science Scholarship by Govt. of UP
+    - year: 2017
+      items:
+        - Qualified for Indian National Mathematics Olympiad (Rank 11/10000)
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python, C++, C, Java, JavaScript
+    - title: Technologies & Frameworks
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - gRPC, Docker, FastAPI, MongoDB, MySQL, Node.js, React.js, Git, AWS
+    - title: ML & AI
+      items:
+        - PyTorch, Langchain, vLLM, nvidia-smi tools
+    - title: Networking
+      items:
+        - Wireshark, Transport Protocols, Congestion Control
