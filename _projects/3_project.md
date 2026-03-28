@@ -3,7 +3,7 @@ layout: page
 title: LEOScope - an open source testbed for LEO networks (released publicly)
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://leoscope.surrey.ac.uk/
 importance: 3
 category: work
 ---
