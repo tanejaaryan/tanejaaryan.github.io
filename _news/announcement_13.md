@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended SIGCOMM'25 for [StarCDN](https://dl.acm.org/doi/10.1145/3718958.3754345) and [LEOScope](https://dl.acm.org/doi/10.1145/3750832.3750835)
-
+Attended SIGCOMM &#39;25 for [StarCDN](https://dl.acm.org/doi/10.1145/3718958.3754345) and [LEOScope](https://dl.acm.org/doi/10.1145/3750832.3750835)

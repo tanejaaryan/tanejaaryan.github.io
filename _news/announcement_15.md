@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted to Stanford CS PhD program for Fall'26, will be in Palo Alto soon for visit days!
-
+Accepted to Stanford CS PhD program for Fall&#39;26, will be in Palo Alto soon for visit days!
