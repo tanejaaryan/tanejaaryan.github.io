@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Aryan Taneja",
-    "label": "Graduate CS Student",
+    "label": "Software Engineer, Netflix",
     "image": "",
-    "email": "aryant2@illinois.edu",
-    "phone": "(447) 901-7091",
+    "email": "aryantaneja.work@gmail.com",
+    "phone": "+1 447 902 7091",
     "url": "https://tanejaaryan.github.io/",
-    "summary": "Graduate research student at UIUC with past background in Networking, Systems for LLMs, and Edge Computing. Contributed to multiple projects at Microsoft Research in the past. Motivated to solve interesting real-world challenges in technology that create impact at scale.",
+    "summary": "Software engineer at Netflix Open Connect, working on high-throughput distributed systems. M.S. in Computer Science from UIUC (2026), with prior work at Microsoft Research on LLM serving and LEO networks.",
     "location": {
-      "address": "3105 Seibel Center, 201 N Goodwin Ave",
-      "postalCode": "IL 61801",
-      "city": "Urbana",
+      "address": "",
+      "postalCode": "95032",
+      "city": "Los Gatos",
       "countryCode": "US",
-      "region": "Illinois"
+      "region": "California"
     },
     "profiles": [
       {
@@ -23,6 +23,20 @@
     ]
   },
   "work": [
+    {
+      "name": "Netflix",
+      "position": "Software Engineer (Distributed Systems)",
+      "startDate": "2026-06-01",
+      "endDate": "",
+      "location": "Los Gatos, CA",
+      "url": "https://openconnect.netflix.com/",
+      "summary": "Open Connect Foundations and Infrastructure.",
+      "highlights": [
+        "Developed server-side efficiency optimizations that improved high-throughput Open Connect Appliances handling millions of requests per minute by 13% on average (up to 42% at peak).",
+        "Built headless AI agents on automated telemetry pipelines for A/B testing, for autonomous bottleneck diagnosis at scale.",
+        "Tuned packet pacing and capacity estimation, improving throughput efficiency by 23% (up to 48%) on dynamic paths."
+      ]
+    },
     {
       "name": "University of Illinois at Urbana-Champaign",
       "position": "Graduate Teaching Assistant",
@@ -68,22 +82,22 @@
     {
       "institution": "University of Illinois at Urbana-Champaign",
       "location": "Urbana-Champaign, IL",
-      "url": "https://www.uzh.ch/",
-      "area": "Computer Science",
-      "studyType": "MS",
+      "url": "https://cs.illinois.edu/",
+      "area": "Computer Science (Advisor: Prof. Deepak Vasisht). Focus: AI Infrastructure, Systems, and Networking.",
+      "studyType": "M.S.",
       "startDate": "2024-08-16",
-      "endDate": "present",
-      "score": "expected 4.0/4.0",
+      "endDate": "2026-05-15",
+      "score": "4.0/4.0",
       "courses": ["Systems for Machine Learning, Applied Machine Learning, Satellite Networks, Algorithms"]
     },
     {
       "institution": "IIIT Delhi",
       "location": "New Delhi, India",
       "url": "https://iiitd.ac.in/",
-      "area": "Computer Science",
+      "area": "Computer Science and Engineering",
       "studyType": "B.Tech",
       "startDate": "2019-07-20",
-      "endDate": "2023-05-15",
+      "endDate": "2023-06-01",
       "score": "9.32/10",
       "courses": [
         "Advanced Machine Learning, Artificial Intelligence, Algorithm Design/Analysis, Data Structures, Advanced Programming, Operating Systems, Computer Networks, Database Management Systems, Computer Security, Information Retrieval, Cloud Computing, Image Processing, HCI"
@@ -177,14 +191,14 @@
       "name": "Languages",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": ["Java, Python, C, C++, MATLAB, HTML, CSS, Javascript, SQL"]
+      "keywords": ["Java, C/C++, Python, Bash"]
     },
     {
-      "name": "Tools",
+      "name": "AI Frameworks & Tooling",
       "level": "Proficient",
       "icon": "fa-solid fa-wrench",
       "keywords": [
-        "Docker, Git, PyTorch, TensorFlow, NumPy, Pandas, Langchain, vllm, huggingface-transformers, gpt-tools, nltk, FastAPI, MongoDB, React.js, Node.js, Django, Flask, cuda-toolkit, wireshark, Ffmpeg, yolo, OpenCV, scikit-learn, LaTeX, Jupyter, Linux, mySQL, AWS, Unix"
+        "vLLM, SGLang, Ollama, LangGraph, LlamaIndex, Ray, Docker, Git, AWS, MySQL, gRPC, Wireshark, perf"
       ]
     }
   ],

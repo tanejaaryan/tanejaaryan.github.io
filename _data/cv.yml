@@ -4,9 +4,9 @@
     - name: Full Name
       value: Aryan Taneja
     - name: Email
-      value: aryant2@illinois.edu
+      value: aryantaneja.work@gmail.com
     - name: Location
-      value: Urbana-Champaign, IL
+      value: Los Gatos, CA
 
 - title: Education
   type: time_table
@@ -17,7 +17,7 @@
       description:
         - "GPA: 4.0/4.0"
         - "Advisor: Prof. Deepak Vasisht"
-        - "Area: Networking, Systems and AI Infrastructure"
+        - "Area: AI Infrastructure, Systems, and Networking"
     - title: Bachelor of Technology in Computer Science and Engineering
       institution: IIIT Delhi
       year: July 2019 - Jun 2023
@@ -27,6 +27,14 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Software Engineer (Distributed Systems)
+      institution: Netflix (Open Connect Foundations and Infrastructure)
+      year: June 2026 - present
+      location: Los Gatos, CA
+      description:
+        - Developed server-side efficiency optimizations that improved high-throughput Open Connect Appliances handling millions of requests per minute by 13% on average (up to 42% at peak)
+        - Built headless AI agents on automated telemetry pipelines for A/B testing, for autonomous bottleneck diagnosis at scale
+        - Tuned packet pacing and capacity estimation, improving throughput efficiency by 23% (up to 48%) on dynamic paths
     - title: Summer Intern
       institution: Netflix (Open Connect Transport R&D)
       year: May 2025 - Aug 2025
@@ -65,12 +73,13 @@
 - title: Selected Projects
   type: time_table
   contents:
-    - title: Sustainable and Energy Efficient AI Inference
+    - title: VoltanaLLM
       institution: Prof. Minjia Zhang, UIUC
-      year: Jan 2025 - present
+      year: Jan 2025 - May 2026
       description:
-        - Working to build energy efficient systems to reduce carbon impact without sacrificing throughput performance or Latency SLAs
-        - Using control-policy inspired scheduler for modern LLM serving systems (vLLM, SGLang)
+        - Feedback-driven GPU frequency control and state-space routing for disaggregated LLM serving (vLLM, SGLang)
+        - Reduced A100 energy by up to 36.3% while meeting latency SLOs
+        - Paper accepted at ISC High Performance 2026
     - title: Optimizing LEO Networks for Global Internet Delivery (StarCDN)
       institution: Prof. Deepak Vasisht, UIUC
       year: Aug 2024 - Aug 2025
@@ -140,13 +149,7 @@
   contents:
     - title: Languages
       items:
-        - Python, C++, C, Java, JavaScript
-    - title: Technologies & Frameworks
+        - Java, C/C++, Python, Bash
+    - title: AI Frameworks & Tooling
       items:
-        - gRPC, Docker, FastAPI, MongoDB, MySQL, Node.js, React.js, Git, AWS
-    - title: ML & AI
-      items:
-        - PyTorch, Langchain, vLLM, nvidia-smi tools
-    - title: Networking
-      items:
-        - Wireshark, Transport Protocols, Congestion Control
+        - vLLM, SGLang, Ollama, LangGraph, LlamaIndex, Ray, Docker, Git, AWS, MySQL, gRPC, Wireshark, perf

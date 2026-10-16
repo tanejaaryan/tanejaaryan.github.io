@@ -6,12 +6,12 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Aryan
 middle_name:
 last_name: Taneja
-email: aryant2@illinois.edu
+email: aryantaneja.work@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Software Engineer at Netflix (Open Connect). M.S. Computer Science, UIUC. Systems, networking, and LLM infrastructure.
 footer_text: >
   Inspired by <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: Systems for Machine learning, LLM inference & training optimization, Computer Networks, Satellite Networks, Edge Computing # add your own keywords or leave empty
+keywords: Distributed Systems, Open Connect, LLM inference, Computer Networks, Satellite Networks, Edge Computing # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👨‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
